@@ -51,6 +51,10 @@
         android:layout_height="wrap_content"
         android:inputType="time"
         android:hint="time"/>
-
+    <CalendarView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        ></CalendarView>
 
 </LinearLayout>
